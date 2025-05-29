@@ -1,0 +1,65 @@
+#container{
+    background-color: rgb(67, 207, 67);
+    height: 650px;
+
+     
+}
+#login{
+    background-color: white;
+left: 500px;   
+    width: 400px;
+    height: 400px;
+    position: relative;
+    top: 170px;
+    border-radius: 10px;
+    
+}
+#login>h1{
+    position: relative;
+    left: 100px;
+}
+#login>img{
+    position: relative;
+    left: 80px;
+    top: 6px;
+    
+}
+#login>input{
+    position: relative;
+    left: 80px;
+    padding: 8px;
+    margin: 10px;
+}
+#login>a{
+    position: relative;
+    left: 200px;
+    text-decoration: none;
+    color: blue;
+}
+#but>img{
+    position: relative;
+    top: 30px;
+    left: 120px;
+}
+#but>button{
+    position: relative;
+    top: 20px;
+    left: 120px;
+    width: 100px;
+    padding: 7px;
+    color: white;
+    background-color: blue;
+}
+#social>h4{
+    position: relative;
+    left: 150px;
+    top: 20px;
+    color: blue;
+}
+#social>a>img{
+    position: relative;
+    width: 50px;
+    top: 10px;
+    margin: 15px;
+    left: 80px;
+}
