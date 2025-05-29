@@ -1,0 +1,53 @@
+body{
+    font-style: oblique;
+}
+
+#container{
+    position: absolute;
+    border: 1px solid red;
+    border-radius: 15px;
+    background-color: pink;
+    width: 400px;
+    height: 490px;
+    top: 30px;
+    left: 350px;
+    margin: 30px;
+}
+label{
+    margin: 20px;
+}
+input{
+    margin: 10px;
+    margin-left: 70px;
+    width: 250px;
+    padding: 6px;
+     border: none;
+    
+}
+#FP{
+    position: absolute;
+    left: 280px;
+    text-decoration: none;
+   
+}
+button{
+    width: 200px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 1px;
+    opacity: 0.9;
+    color: white;
+}
+button:hover {
+  opacity:1;
+}   
+#B1{
+    background-color: red;
+}
+#B2{
+    background-color: green;
+}
+hr{
+    border: 1px solid gray;
+}
